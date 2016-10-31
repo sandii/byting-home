@@ -28,7 +28,6 @@ body{
 	line-height:20px; font-size:16px; font-family:'Courier';
 	transition:1s background;
 }
-.dr
 .cursor{
 	display:inline-block; position:relative;
 	width:10px; height:16px; top:-3px;
