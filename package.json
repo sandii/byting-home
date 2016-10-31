@@ -1,0 +1,22 @@
+{
+  "name": "byting-home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandii/byting-home.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandii/byting-home/issues"
+  },
+  "homepage": "https://github.com/sandii/byting-home#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
